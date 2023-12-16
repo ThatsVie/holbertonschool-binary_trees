@@ -2,11 +2,9 @@
 #define BINARY_TREES_H
 
 /* Libraries */
-#include <stddef.h>
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-
+#include <stddef.h> /* for size_t */ 
+#include <stdlib.h> /* for malloc */
+#include <stdio.h> /* for printf */
 /* Structures */
 
 /**
